@@ -1,8 +1,13 @@
 # Getting Started with Create React App
 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot 2023-07-07 112638](https://github.com/HannaFleming/timer-react/assets/124400864/3e478483-bac8-4b75-91b6-7017a74c52f7)
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
