@@ -1,0 +1,12 @@
+.App{
+  color:white;
+  position:absolute;
+  top:200px;
+  left:500px;
+  font-weight:bold;
+  font-size:50px;
+
+}
+body{
+  background-color: black;
+}
